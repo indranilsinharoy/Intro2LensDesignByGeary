@@ -1,0 +1,30 @@
+
+############
+## Windows
+############
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+
+#############
+## Python
+#############
+
+*.py[co]
+
+###########
+# IPython
+###########
+.ipynb_checkpoints/
+
+###########
+# ZEMAX
+###########
+#ZEMAX settings files and sessions files
+*.CFG
+*.SES
+None
