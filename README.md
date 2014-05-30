@@ -1,8 +1,11 @@
 Notes from Introduction to Lens Design 
 ======================================
 
-My notes from the book "Introduction to Lens Design" by Joseph M. Geary
-using [Zemax](http://www.zemax.com), [PyZDDE](https://github.com/indranilsinharoy/PyZDDE) and [IPython notebook](http://ipython.org/notebook.html).
+My notes from the book 
+["Introduction to Lens Design" by Joseph M. Geary](http://www.willbell.com/TM/lens_design/index.htm) 
+using [Zemax](http://www.zemax.com), 
+[PyZDDE](https://github.com/indranilsinharoy/PyZDDE) 
+and [IPython notebook](http://ipython.org/notebook.html).
 
 Goal
 ----
@@ -18,6 +21,12 @@ Chapters
 3. [Conventions and Aspheres](http://nbviewer.ipython.org/github/indranilsinharoy/Intro2LensDesignByGeary/blob/master/Intro2LensDesign_JMGeary_Ch03.ipynb)
 
 
+Miscellaneous notes
+-------------------
+1. [Notes on Zemax](http://nbviewer.ipython.org/github/indranilsinharoy/Intro2LensDesignByGeary/blob/master/NotesOnZemax.ipynb)
 
+
+License
+-------
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
