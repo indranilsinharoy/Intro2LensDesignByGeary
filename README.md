@@ -17,17 +17,17 @@ Goal
 Chapters
 --------
 
-1. [Agenda](http://nbviewer.ipython.org/github/indranilsinharoy/Intro2LensDesignByGeary/blob/master/Intro2LensDesign_JMGeary_Ch01_Agenda.ipynb) 
-2. [Zemax](http://nbviewer.ipython.org/github/indranilsinharoy/Intro2LensDesignByGeary/blob/master/Intro2LensDesign_JMGeary_Ch02_Zemax.ipynb)
-3. [Conventions and Aspheres](http://nbviewer.ipython.org/github/indranilsinharoy/Intro2LensDesignByGeary/blob/master/Intro2LensDesign_JMGeary_Ch03_ConventionsAspheres.ipynb)
-4. [Paraxial World](http://nbviewer.ipython.org/github/indranilsinharoy/Intro2LensDesignByGeary/blob/master/Intro2LensDesign_JMGeary_Ch04_ParaxialWorld.ipynb)
-5. [Stops and Pupils](http://nbviewer.ipython.org/github/indranilsinharoy/Intro2LensDesignByGeary/blob/master/Intro2LensDesign_JMGeary_Ch05_StopsPupils.ipynb) 
-6. [Glass, and the Landscape Lens](http://nbviewer.ipython.org/github/indranilsinharoy/Intro2LensDesignByGeary/blob/master/Intro2LensDesign_JMGeary_Ch06_GlassLandscapeLens.ipynb)
+1. [Agenda](http://nbviewer.ipython.org/github/indranilsinharoy/Intro2LensDesignByGeary/blob/master/book_chapters/Intro2LensDesign_JMGeary_Ch01_Agenda.ipynb) 
+2. [Zemax](http://nbviewer.ipython.org/github/indranilsinharoy/Intro2LensDesignByGeary/blob/master/book_chapters/Intro2LensDesign_JMGeary_Ch02_Zemax.ipynb)
+3. [Conventions and Aspheres](http://nbviewer.ipython.org/github/indranilsinharoy/Intro2LensDesignByGeary/blob/master/book_chapters/Intro2LensDesign_JMGeary_Ch03_ConventionsAspheres.ipynb)
+4. [Paraxial World](http://nbviewer.ipython.org/github/indranilsinharoy/Intro2LensDesignByGeary/blob/master/book_chapters/Intro2LensDesign_JMGeary_Ch04_ParaxialWorld.ipynb)
+5. [Stops and Pupils](http://nbviewer.ipython.org/github/indranilsinharoy/Intro2LensDesignByGeary/blob/master/book_chapters/Intro2LensDesign_JMGeary_Ch05_StopsPupils.ipynb) 
+6. [Glass, and the Landscape Lens](http://nbviewer.ipython.org/github/indranilsinharoy/Intro2LensDesignByGeary/blob/master/book_chapters/Intro2LensDesign_JMGeary_Ch06_GlassLandscapeLens.ipynb)
 
 
 Miscellaneous notes
 -------------------
-1. [Notes on Zemax](http://nbviewer.ipython.org/github/indranilsinharoy/Intro2LensDesignByGeary/blob/master/NotesOnZemax.ipynb)
+1. [Notes on Zemax](http://nbviewer.ipython.org/github/indranilsinharoy/Intro2LensDesignByGeary/blob/master/misc_notes/NotesOnZemax.ipynb)
 
 
 Notes from Zemax Knowledgebase articles
