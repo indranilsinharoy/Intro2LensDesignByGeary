@@ -14,10 +14,13 @@ Goal
 2. The purpose of sharing these notebooks is that  others who may find it useful.
 3. A secondary purpose of these notebooks is to demonstrate the use of PyZDDE in IPython notebook environment.
 
+
 Chapters
 --------
 
-1. [Agenda](http://nbviewer.ipython.org/github/indranilsinharoy/Intro2LensDesignByGeary/blob/master/book_chapters/Intro2LensDesign_JMGeary_Ch01_Agenda.ipynb) 
+Please note that the following links will open in nbviewer. Some pages -- those with many figures and/or latex equations -- take a little longer to load.
+
+1. [Agenda](http://nbviewer.ipython.org/github/indranilsinharoy/Intro2LensDesignByGeary/blob/master/book_chapters/Intro2LensDesign_JMGeary_Ch01_Agenda.ipynb) (Does not use PyZDDE or Zemax) 
 2. [Zemax](http://nbviewer.ipython.org/github/indranilsinharoy/Intro2LensDesignByGeary/blob/master/book_chapters/Intro2LensDesign_JMGeary_Ch02_Zemax.ipynb)
 3. [Conventions and Aspheres](http://nbviewer.ipython.org/github/indranilsinharoy/Intro2LensDesignByGeary/blob/master/book_chapters/Intro2LensDesign_JMGeary_Ch03_ConventionsAspheres.ipynb)
 4. [Paraxial World](http://nbviewer.ipython.org/github/indranilsinharoy/Intro2LensDesignByGeary/blob/master/book_chapters/Intro2LensDesign_JMGeary_Ch04_ParaxialWorld.ipynb)
