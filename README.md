@@ -1,18 +1,14 @@
 Notes from Introduction to Lens Design 
 ======================================
 
-This repository contains my own notes from the book 
-["Introduction to Lens Design" by Joseph M. Geary](http://www.willbell.com/TM/lens_design/index.htm) 
-using [Zemax](http://www.zemax.com), 
-[PyZDDE](https://github.com/indranilsinharoy/PyZDDE) 
-and [IPython notebook](http://ipython.org/notebook.html), some miscellaneous notes on Zemax and some notes
-on Zemax knowledgebase articles.
+This repository contains my own notes made from the book 
+["Introduction to Lens Design" by Joseph M. Geary](http://www.willbell.com/TM/lens_design/index.htm), some miscellaneous notes on Zemax, and some notes based on Zemax knowledgebase articles (with proper links and attribution of course). I have used [Zemax](http://www.zemax.com), [PyZDDE](https://github.com/indranilsinharoy/PyZDDE), and [IPython notebook](http://ipython.org/notebook.html) for creating these notes.
 
 Goal
 ----
-1. The primary purpose of these notebooks is to be an online reference for my personal use. 
-2. The purpose of sharing these notebooks is that  others who may find it useful.
-3. A secondary purpose of these notebooks is to demonstrate the use of PyZDDE in IPython notebook environment.
+1. The primary purpose of these notebooks is to be an online reference for my own personal use. 
+2. A secondary purpose of these notebooks is to demonstrate the use of PyZDDE with the IPython notebook. I strongly believe that this can be a great tool for making personal notes on lens design, communicating ideas about lens design and optics in general, and for teaching.
+3. The purpose of sharing the notebooks is that others who may find it useful, and come up with better ideas about using PyZDDE and IPython notebooks for optics/Zemax/lens-design.
 
 
 Chapters
@@ -40,7 +36,9 @@ Notes from Zemax Knowledgebase articles
 
 Disclaimer
 ----------
-Please note that no part of the material is guaranteed to be accurate. There will mostly likely be some errors in the material! Please use with caution. If you find any errors, please be kind to let me know. Thank you.
+Please note that no part of the material is guaranteed to be accurate. There will mostly likely be some errors in the material! Please use with caution. If you find any errors, please be kind to let me know. 
+
+Thank you very much.
 
 
 License
